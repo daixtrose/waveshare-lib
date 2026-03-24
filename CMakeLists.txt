@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.25...4.2)
 
 project(libwaveshare
-    VERSION 0.2.0
+    VERSION 0.2.1
     DESCRIPTION "Waveshare device library — VirCom UDP scanning, configuration, and Modbus TCP connection"
     LANGUAGES CXX
 )
