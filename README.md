@@ -24,7 +24,7 @@ cmake --build build/linux-x86_64-debug -j$(nproc)
 # Via FetchContent
 FetchContent_Declare(
     libwaveshare_proj
-    GIT_REPOSITORY https://github.com/daixtrose/libwaveshare.git
+    GIT_REPOSITORY https://github.com/daixtrose/waveshare-lib.git
     GIT_TAG main
     GIT_SHALLOW TRUE
 )
